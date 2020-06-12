@@ -1,0 +1,11 @@
+.main{
+    margin: auto;
+    border: 3px;
+    width: 60;
+    padding: 50px;
+    text-align: center;
+}
+
+.list{
+    background-color: aqua;
+}
